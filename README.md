@@ -3,7 +3,7 @@
 This is the official PyTorch implementation of the paper [Adaptive Fusion Strategy with Masked Encoding for Cross-Domain Industrial Image Anomaly Detection], which is inspired by [Industrial Anomaly Detection with Domain Shift: A Real-world Dataset and Masked Multi-scale Reconstruction].
 <p align="center">
     <img src="./model.jpg" alt="Alt text" width="500">
-</p>p
+</p>
     Overview of the proposed framework for industrial anomaly detection. A pretrained feature extractor, M1, generates multi-scale features fusion obtained from intermediate layers. These are combined with multi-level features produced by a trainable PM-T Encoder and SFPN decoder in M2. The model is trained by maximizing feature similarity across scales. The inference stage detects anomalous regions by comparing multi-level feature similarities.
 
 ### Datasets
