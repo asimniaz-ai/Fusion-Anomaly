@@ -82,7 +82,6 @@ sh AeBAD_S_run.sh
 sh AeBAD_V_run.sh
 ```
 
-TRAIN.MMR.model_chkpt in MMR.yaml is the path of above download model. TRAIN.dataset_path (TEST.dataset_path) is the path of data.
 Set Test.save_segmentation_images as True or False to save processed image.
 
 ## Acknowledgement
