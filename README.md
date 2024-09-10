@@ -1,12 +1,12 @@
 ## Industrial Anomaly Detection with Domain Shift: A Real-world Dataset and Masked Multi-scale Reconstruction
 
-This is an official PyTorch implementation of the paper [Adaptive Fusion Strategy with Masked Encoding for Cross-Domain Industrial Image Anomaly Detection].
+This is the official PyTorch implementation of the paper [Adaptive Fusion Strategy with Masked Encoding for Cross-Domain Industrial Image Anomaly Detection], which is inspired by [Industrial Anomaly Detection with Domain Shift: A Real-world Dataset and Masked Multi-scale Reconstruction].
 
 ### Datasets
 
 We tested our model on two publicly available datasets, AeBAD and MVTec.
 
-**Download dataset at [here](https://drive.google.com/file/d/14wkZAFFeudlg0NMFLsiGwS0E593b-lNo/view?usp=share_link) (Google Drive) or [here](https://cloud.189.cn/web/share?code=nYraE3uMRJn2) (access code: g4pr) (Tian Yi Yun Pan).**
+**Download AeBAD dataset at [here](https://drive.google.com/file/d/14wkZAFFeudlg0NMFLsiGwS0E593b-lNo/view?usp=share_link) (Google Drive) or [here](https://cloud.189.cn/web/share?code=nYraE3uMRJn2) (access code: g4pr) (Tian Yi Yun Pan).**
 
 ### Get Started
 
