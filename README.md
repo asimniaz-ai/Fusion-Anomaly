@@ -86,7 +86,7 @@ TRAIN.MMR.model_chkpt in MMR.yaml is the path of above download model. TRAIN.dat
 Set Test.save_segmentation_images as True or False to save processed image.
 
 ## Acknowledgement
-We acknowledge the excellent implementation from [MMR](https://github.com/zhangzilongc/MMR), [MAE](https://github.com/facebookresearch/mae), [SWIN-MAE]([https://github.com/facebookresearch/detectron2/tree/main/projects/ViTDet](https://github.com/Zian-Xu/Swin-MAE).
+We acknowledge the excellent implementation from [MMR](https://github.com/zhangzilongc/MMR), [MAE](https://github.com/facebookresearch/mae), [SWIN-MAE](https://github.com/Zian-Xu/Swin-MAE).
 
 
 
